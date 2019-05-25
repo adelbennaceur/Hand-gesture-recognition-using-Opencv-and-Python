@@ -6,6 +6,6 @@ the code will display a particular message  depending on the depending on the cu
 
 Libraries Required:
 
-OpenCV 
-NumPy
-Math
+-OpenCV  
+-NumPy
+-Math
